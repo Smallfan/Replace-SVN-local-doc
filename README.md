@@ -1,5 +1,5 @@
 # Replace-SVN-local-doc
-Replace local document which is not code on SVN.
+Replace local document which is not code on SVN.<br/>
 SVN目录非代码文件无感知替换方案
 
 - **autoUpdateSvn:**服务器自动更新svn脚本
